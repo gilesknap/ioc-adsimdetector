@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 4.6.0
+_src_path: https://github.com/epics-containers/ioc-template
+description: g
+git_platform: github.com
+github_org: gilesknap
+name: ioc-adsimdetector
+repo_uri: git@github.com:gilesknap/ioc-adsimdetector.git
+rtems: false
